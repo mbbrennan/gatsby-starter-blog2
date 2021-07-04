@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Software & Technology Musings by Maureen Brennan`,
+    title: `Software & Technology Musings by Maureen`,
     author: {
       name: ``,
       summary: `.`,
